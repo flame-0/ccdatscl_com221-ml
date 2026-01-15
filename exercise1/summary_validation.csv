@@ -1,0 +1,4 @@
+rule,violations
+price > 0,11
+host_id not null,0
+min_nights >= 1,0
