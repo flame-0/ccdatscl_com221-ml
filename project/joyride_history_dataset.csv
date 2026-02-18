@@ -1,0 +1,835 @@
+"order_no","status","timestamp","dist","net","comm","pickup","dropoff"
+"redacted","COMPLETED","Thursday, September 25, 2025 6:04 AM","12.5","136.8","34.2",redacted,redacted
+"redacted","COMPLETED","Thursday, September 25, 2025 6:46 AM","9.7","104.0","26.0",redacted,redacted
+"redacted","COMPLETED","Thursday, September 25, 2025 4:56 AM","10.8","116.0","29.0",redacted,redacted
+"redacted","COMPLETED","Thursday, September 25, 2025 7:26 AM","14.0","155.2","38.8",redacted,redacted
+"redacted","COMPLETED","Thursday, September 25, 2025 12:56 PM","9.8","104.8","26.2",redacted,redacted
+"redacted","COMPLETED","Friday, September 26, 2025 7:44 AM","11.9","129.6","32.4",redacted,redacted
+"redacted","DRIVER CANCELLED","Thursday, September 25, 2025 3:51 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, September 25, 2025 9:19 AM","10.6","114.4","28.6",redacted,redacted
+"redacted","COMPLETED","Thursday, September 25, 2025 3:23 PM","0.8","40.0","10.0",redacted,redacted
+"redacted","COMPLETED","Thursday, September 25, 2025 6:57 PM","8.2","85.6","21.4",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Friday, September 26, 2025 7:05 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, September 25, 2025 2:32 PM","2.9","46.4","11.6",redacted,redacted
+"redacted","COMPLETED","Thursday, September 25, 2025 5:02 PM","11.9","129.6","32.4",redacted,redacted
+"redacted","COMPLETED","Friday, September 26, 2025 7:14 AM","7.5","79.2","19.8",redacted,redacted
+"redacted","COMPLETED","Thursday, September 25, 2025 10:47 AM","7.4","79.2","19.8",redacted,redacted
+"redacted","COMPLETED","Thursday, September 25, 2025 4:09 PM","6.4","71.2","17.8",redacted,redacted
+"redacted","COMPLETED","Friday, September 26, 2025 6:15 AM","13.5","148.8","37.2",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Thursday, September 25, 2025 11:19 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Thursday, September 25, 2025 1:43 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Friday, September 26, 2025 10:19 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, September 26, 2025 12:03 PM","2.2","41.6","10.4",redacted,redacted
+"redacted","COMPLETED","Friday, September 26, 2025 10:33 AM","7.3","98.4","19.6",redacted,redacted
+"redacted","COMPLETED","Friday, September 26, 2025 8:30 AM","6.5","72.8","18.2",redacted,redacted
+"redacted","COMPLETED","Friday, September 26, 2025 12:33 PM","1.9","40.0","10.0",redacted,redacted
+"redacted","COMPLETED","Friday, September 26, 2025 11:26 AM","9.8","104.8","26.2",redacted,redacted
+"redacted","COMPLETED","Friday, September 26, 2025 9:28 AM","6.9","75.2","18.8",redacted,redacted
+"redacted","DRIVER CANCELLED","Friday, September 26, 2025 9:54 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, September 26, 2025 9:08 AM","3.6","52.0","13.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, September 30, 2025 5:50 AM","13.8","152.8","38.2",redacted,redacted
+"redacted","COMPLETED","Tuesday, September 30, 2025 6:51 AM","14.6","161.6","40.4",redacted,redacted
+"redacted","COMPLETED","Tuesday, September 30, 2025 7:54 AM","5.3","84.0","16.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Tuesday, September 30, 2025 11:36 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, September 30, 2025 8:55 AM","7.2","77.6","19.4",redacted,redacted
+"redacted","COMPLETED","Tuesday, September 30, 2025 12:20 PM","17.9","202.4","50.6",redacted,redacted
+"redacted","COMPLETED","Tuesday, September 30, 2025 2:12 PM","6.9","75.2","18.8",redacted,redacted
+"redacted","COMPLETED","Tuesday, September 30, 2025 11:48 AM","3.7","52.8","13.2",redacted,redacted
+"redacted","COMPLETED","Tuesday, September 30, 2025 9:31 AM","7.1","76.8","19.2",redacted,redacted
+"redacted","COMPLETED","Wednesday, October 1, 2025 4:06 PM","7.6","80.0","20.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, October 1, 2025 5:27 PM","7.8","81.6","20.4",redacted,redacted
+"redacted","COMPLETED","Wednesday, October 1, 2025 4:47 PM","6.0","68.8","17.2",redacted,redacted
+"redacted","COMPLETED","Wednesday, October 1, 2025 7:43 PM","14.2","157.6","39.4",redacted,redacted
+"redacted","COMPLETED","Wednesday, October 1, 2025 6:13 PM","10.5","113.6","28.4",redacted,redacted
+"redacted","COMPLETED","Wednesday, October 1, 2025 9:03 PM","10.0","107.2","26.8",redacted,redacted
+"redacted","COMPLETED","Wednesday, October 1, 2025 3:46 PM","2.8","46.4","11.6",redacted,redacted
+"redacted","COMPLETED","Thursday, October 2, 2025 4:25 PM","17.9","202.4","50.6",redacted,redacted
+"redacted","COMPLETED","Thursday, October 2, 2025 6:21 PM","3.6","52.0","13.0",redacted,redacted
+"redacted","COMPLETED","Thursday, October 2, 2025 6:35 PM","10.0","107.2","26.8",redacted,redacted
+"redacted","COMPLETED","Thursday, October 2, 2025 5:54 PM","5.5","65.6","16.4",redacted,redacted
+"redacted","DRIVER CANCELLED","Friday, October 3, 2025 8:41 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Friday, October 3, 2025 7:20 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, October 3, 2025 6:27 PM","9.0","94.4","23.6",redacted,redacted
+"redacted","COMPLETED","Friday, October 3, 2025 3:58 PM","5.8","87.2","16.8",redacted,redacted
+"redacted","DRIVER CANCELLED","Friday, October 3, 2025 5:39 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, October 3, 2025 2:08 PM","10.4","112.0","28.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Friday, October 3, 2025 3:06 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, October 3, 2025 4:39 PM","7.1","96.8","19.2",redacted,redacted
+"redacted","DRIVER CANCELLED","Friday, October 3, 2025 3:01 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Friday, October 3, 2025 3:18 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, October 3, 2025 7:42 PM","7.3","78.4","19.6",redacted,redacted
+"redacted","DRIVER CANCELLED","Friday, October 3, 2025 7:34 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, October 3, 2025 3:22 PM","6.7","73.6","18.4",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Friday, October 3, 2025 2:55 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, October 3, 2025 5:58 PM","5.3","64.0","16.0",redacted,redacted
+"redacted","COMPLETED","Friday, October 3, 2025 1:34 PM","6.6","72.8","18.2",redacted,redacted
+"redacted","COMPLETED","Sunday, October 5, 2025 7:24 AM","9.7","103.2","25.8",redacted,redacted
+"redacted","COMPLETED","Monday, October 6, 2025 6:17 AM","3.7","52.0","13.0",redacted,redacted
+"redacted","COMPLETED","Sunday, October 5, 2025 9:29 AM","4.6","78.4","14.6",redacted,redacted
+"redacted","COMPLETED","Sunday, October 5, 2025 10:19 AM","10.2","108.8","27.2",redacted,redacted
+"redacted","COMPLETED","Sunday, October 5, 2025 8:13 AM","10.1","108.0","27.0",redacted,redacted
+"redacted","COMPLETED","Sunday, October 5, 2025 8:57 AM","9.9","106.4","26.6",redacted,redacted
+"redacted","COMPLETED","Monday, October 6, 2025 6:34 AM","11.9","150.4","32.6",redacted,redacted
+"redacted","COMPLETED","Sunday, October 5, 2025 10:00 AM","2.5","44.0","11.0",redacted,redacted
+"redacted","COMPLETED","Monday, October 6, 2025 7:20 AM","5.3","64.0","16.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Monday, October 6, 2025 8:07 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Monday, October 6, 2025 3:56 PM","16.7","188.0","47.0",redacted,redacted
+"redacted","COMPLETED","Monday, October 6, 2025 6:33 PM","6.9","75.2","18.8",redacted,redacted
+"redacted","COMPLETED","Monday, October 6, 2025 10:20 AM","4.5","57.6","14.4",redacted,redacted
+"redacted","COMPLETED","Monday, October 6, 2025 7:04 PM","7.3","98.4","19.6",redacted,redacted
+"redacted","COMPLETED","Monday, October 6, 2025 8:23 AM","11.3","122.4","30.6",redacted,redacted
+"redacted","DRIVER CANCELLED","Monday, October 6, 2025 3:49 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Monday, October 6, 2025 8:42 PM","23.6","270.4","67.6",redacted,redacted
+"redacted","COMPLETED","Monday, October 6, 2025 7:38 PM","5.0","61.6","15.4",redacted,redacted
+"redacted","COMPLETED","Monday, October 6, 2025 9:21 AM","9.5","101.6","25.4",redacted,redacted
+"redacted","DRIVER CANCELLED","Monday, October 6, 2025 8:05 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, October 7, 2025 7:49 PM","6.1","69.6","17.4",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, October 7, 2025 8:48 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, October 7, 2025 8:37 PM","2.3","42.4","10.6",redacted,redacted
+"redacted","COMPLETED","Tuesday, October 7, 2025 9:40 PM","33.2","385.6","96.4",redacted,redacted
+"redacted","COMPLETED","Thursday, October 9, 2025 6:38 AM","19.2","216.8","54.2",redacted,redacted
+"redacted","COMPLETED","Thursday, October 9, 2025 8:18 AM","7.4","78.4","19.6",redacted,redacted
+"redacted","COMPLETED","Thursday, October 9, 2025 8:55 AM","5.0","61.6","15.4",redacted,redacted
+"redacted","COMPLETED","Thursday, October 9, 2025 9:50 AM","4.3","56.8","14.2",redacted,redacted
+"redacted","DRIVER CANCELLED","Thursday, October 9, 2025 5:22 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, October 9, 2025 6:12 PM","11.9","150.4","32.6",redacted,redacted
+"redacted","COMPLETED","Thursday, October 9, 2025 10:08 AM","8.5","109.6","22.4",redacted,redacted
+"redacted","DRIVER CANCELLED","Thursday, October 9, 2025 5:14 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, October 9, 2025 8:44 PM","4.6","58.4","14.6",redacted,redacted
+"redacted","COMPLETED","Thursday, October 9, 2025 8:12 PM","8.9","94.4","23.6",redacted,redacted
+"redacted","COMPLETED","Thursday, October 9, 2025 7:48 PM","2.8","45.6","11.4",redacted,redacted
+"redacted","COMPLETED","Thursday, October 9, 2025 4:58 PM","3.8","52.8","13.2",redacted,redacted
+"redacted","COMPLETED","Thursday, October 9, 2025 9:30 AM","3.7","52.0","13.0",redacted,redacted
+"redacted","COMPLETED","Thursday, October 9, 2025 6:51 PM","6.7","74.4","18.6",redacted,redacted
+"redacted","COMPLETED","Monday, October 13, 2025 9:42 PM","21.0","238.4","59.6",redacted,redacted
+"redacted","COMPLETED","Monday, October 13, 2025 7:18 PM","6.3","71.2","17.8",redacted,redacted
+"redacted","COMPLETED","Monday, October 13, 2025 8:49 PM","16.8","188.8","47.2",redacted,redacted
+"redacted","COMPLETED","Thursday, October 16, 2025 3:39 PM","4.6","58.4","14.6",redacted,redacted
+"redacted","COMPLETED","Thursday, October 16, 2025 9:25 AM","12.7","139.2","34.8",redacted,redacted
+"redacted","COMPLETED","Thursday, October 16, 2025 10:45 AM","13.3","147.2","36.8",redacted,redacted
+"redacted","COMPLETED","Friday, October 17, 2025 10:27 AM","7.1","76.8","19.2",redacted,redacted
+"redacted","COMPLETED","Friday, October 17, 2025 8:38 AM","7.6","80.0","20.0",redacted,redacted
+"redacted","COMPLETED","Friday, October 17, 2025 9:25 AM","8.0","84.0","21.0",redacted,redacted
+"redacted","COMPLETED","Friday, October 17, 2025 9:56 AM","10.0","107.2","26.8",redacted,redacted
+"redacted","COMPLETED","Monday, October 20, 2025 6:57 AM","11.9","130.4","32.6",redacted,redacted
+"redacted","COMPLETED","Monday, October 20, 2025 7:46 AM","18.8","313.6","53.4",redacted,redacted
+"redacted","COMPLETED","Monday, October 20, 2025 7:39 PM","13.1","144.8","36.2",redacted,redacted
+"redacted","COMPLETED","Monday, October 20, 2025 8:54 AM","8.2","85.6","21.4",redacted,redacted
+"redacted","COMPLETED","Monday, October 20, 2025 5:52 PM","6.6","73.6","18.4",redacted,redacted
+"redacted","COMPLETED","Monday, October 20, 2025 12:28 PM","3.1","48.0","12.0",redacted,redacted
+"redacted","COMPLETED","Monday, October 20, 2025 10:35 AM","9.6","103.2","25.8",redacted,redacted
+"redacted","COMPLETED","Monday, October 20, 2025 11:53 AM","8.7","92.0","23.0",redacted,redacted
+"redacted","COMPLETED","Monday, October 20, 2025 10:01 AM","9.4","100.0","25.0",redacted,redacted
+"redacted","COMPLETED","Monday, October 20, 2025 7:11 PM","7.3","78.4","19.6",redacted,redacted
+"redacted","COMPLETED","Monday, October 20, 2025 5:00 PM","9.5","100.8","25.2",redacted,redacted
+"redacted","COMPLETED","Tuesday, October 21, 2025 1:38 PM","9.7","104.0","26.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, October 21, 2025 12:22 PM","7.1","76.8","19.2",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Tuesday, October 21, 2025 11:58 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, October 22, 2025 7:35 AM","4.5","87.6","14.4",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Wednesday, October 22, 2025 7:00 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, October 22, 2025 7:02 AM","9.0","95.2","23.8",redacted,redacted
+"redacted","COMPLETED","Tuesday, October 21, 2025 12:55 PM","5.7","67.2","16.8",redacted,redacted
+"redacted","COMPLETED","Tuesday, October 21, 2025 10:13 AM","5.1","62.4","15.6",redacted,redacted
+"redacted","COMPLETED","Tuesday, October 21, 2025 9:44 AM","7.7","81.6","20.4",redacted,redacted
+"redacted","COMPLETED","Wednesday, October 22, 2025 11:11 AM","7.9","82.4","20.6",redacted,redacted
+"redacted","COMPLETED","Wednesday, October 22, 2025 8:33 AM","9.3","99.2","24.8",redacted,redacted
+"redacted","COMPLETED","Wednesday, October 22, 2025 9:32 PM","6.5","72.8","18.2",redacted,redacted
+"redacted","COMPLETED","Wednesday, October 22, 2025 5:11 PM","4.6","59.2","14.8",redacted,redacted
+"redacted","COMPLETED","Wednesday, October 22, 2025 8:51 PM","1.4","40.0","10.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, October 22, 2025 11:57 AM","8.4","88.0","22.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, October 22, 2025 10:22 AM","7.1","76.8","19.2",redacted,redacted
+"redacted","COMPLETED","Wednesday, October 22, 2025 12:41 PM","8.4","108.8","22.2",redacted,redacted
+"redacted","COMPLETED","Wednesday, October 22, 2025 9:58 PM","2.2","41.6","10.4",redacted,redacted
+"redacted","COMPLETED","Wednesday, October 22, 2025 6:03 PM","6.7","73.6","18.4",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Wednesday, October 22, 2025 8:31 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Wednesday, October 22, 2025 6:01 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, October 22, 2025 6:49 PM","17.4","195.2","48.8",redacted,redacted
+"redacted","COMPLETED","Wednesday, October 22, 2025 10:19 PM","3.3","48.8","12.2",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Wednesday, October 22, 2025 9:21 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, October 22, 2025 7:59 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, October 22, 2025 11:32 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Friday, October 24, 2025 7:27 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, October 24, 2025 7:33 AM","4.4","56.8","14.2",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Friday, October 24, 2025 5:45 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, October 24, 2025 7:54 AM","2.7","45.6","11.4",redacted,redacted
+"redacted","COMPLETED","Friday, October 24, 2025 5:50 AM","27.7","319.2","79.8",redacted,redacted
+"redacted","COMPLETED","Friday, October 24, 2025 8:08 PM","9.1","96.0","24.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Friday, October 24, 2025 8:04 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, October 24, 2025 7:00 PM","9.0","95.2","23.8",redacted,redacted
+"redacted","COMPLETED","Friday, October 24, 2025 10:55 AM","2.0","40.0","10.0",redacted,redacted
+"redacted","COMPLETED","Friday, October 24, 2025 10:14 AM","5.8","67.2","16.8",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Friday, October 24, 2025 9:06 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, October 24, 2025 10:18 PM","11.5","124.8","31.2",redacted,redacted
+"redacted","COMPLETED","Friday, October 24, 2025 9:40 PM","9.4","100.0","25.0",redacted,redacted
+"redacted","COMPLETED","Friday, October 24, 2025 9:28 AM","5.9","68.0","17.0",redacted,redacted
+"redacted","COMPLETED","Friday, October 24, 2025 8:26 AM","5.4","64.8","16.2",redacted,redacted
+"redacted","COMPLETED","Friday, October 24, 2025 9:02 PM","9.3","135.2","24.8",redacted,redacted
+"redacted","COMPLETED","Friday, October 24, 2025 11:19 AM","16.6","186.4","46.6",redacted,redacted
+"redacted","COMPLETED","Friday, October 24, 2025 12:05 PM","8.7","92.0","23.0",redacted,redacted
+"redacted","COMPLETED","Monday, October 27, 2025 6:27 AM","15.7","176.0","44.0",redacted,redacted
+"redacted","COMPLETED","Monday, October 27, 2025 7:13 AM","9.8","104.8","26.2",redacted,redacted
+"redacted","DRIVER CANCELLED","Monday, October 27, 2025 7:56 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Monday, October 27, 2025 9:36 PM","6.0","68.8","17.2",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Monday, October 27, 2025 8:24 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Monday, October 27, 2025 8:54 PM","8.0","133.2","20.8",redacted,redacted
+"redacted","COMPLETED","Monday, October 27, 2025 4:50 PM","10.4","112.0","28.0",redacted,redacted
+"redacted","COMPLETED","Monday, October 27, 2025 6:59 PM","15.8","177.6","44.4",redacted,redacted
+"redacted","COMPLETED","Monday, October 27, 2025 8:30 AM","18.5","209.6","52.4",redacted,redacted
+"redacted","COMPLETED","Monday, October 27, 2025 8:10 PM","7.1","76.8","19.2",redacted,redacted
+"redacted","COMPLETED","Monday, October 27, 2025 5:46 PM","14.6","161.6","40.4",redacted,redacted
+"redacted","COMPLETED","Thursday, October 30, 2025 3:26 PM","6.3","71.2","17.8",redacted,redacted
+"redacted","COMPLETED","Thursday, October 30, 2025 4:51 PM","10.7","115.2","28.8",redacted,redacted
+"redacted","COMPLETED","Thursday, October 30, 2025 9:53 PM","6.9","75.2","18.8",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Thursday, October 30, 2025 3:52 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, October 30, 2025 7:39 PM","30.7","356.0","89.0",redacted,redacted
+"redacted","COMPLETED","Thursday, October 30, 2025 6:20 PM","9.8","104.8","26.2",redacted,redacted
+"redacted","COMPLETED","Thursday, October 30, 2025 10:27 PM","12.2","132.8","33.2",redacted,redacted
+"redacted","COMPLETED","Thursday, October 30, 2025 5:45 PM","4.6","58.4","14.6",redacted,redacted
+"redacted","COMPLETED","Thursday, October 30, 2025 7:19 PM","4.7","59.2","14.8",redacted,redacted
+"redacted","COMPLETED","Thursday, October 30, 2025 2:23 PM","10.4","112.0","28.0",redacted,redacted
+"redacted","COMPLETED","Thursday, October 30, 2025 3:53 PM","10.6","114.4","28.6",redacted,redacted
+"redacted","COMPLETED","Friday, October 31, 2025 9:48 PM","8.5","89.6","22.4",redacted,redacted
+"redacted","COMPLETED","Friday, October 31, 2025 8:59 PM","21.2","241.6","60.4",redacted,redacted
+"redacted","COMPLETED","Friday, October 31, 2025 6:22 PM","19.5","220.8","55.2",redacted,redacted
+"redacted","DRIVER CANCELLED","Friday, October 31, 2025 5:42 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, October 31, 2025 7:46 PM","19.9","225.6","56.4",redacted,redacted
+"redacted","COMPLETED","Friday, October 31, 2025 8:33 PM","8.7","91.2","22.8",redacted,redacted
+"redacted","COMPLETED","Friday, October 31, 2025 5:50 PM","6.6","123.6","18.4",redacted,redacted
+"redacted","COMPLETED","Friday, October 31, 2025 10:22 PM","9.7","103.2","25.8",redacted,redacted
+"redacted","COMPLETED","Friday, October 31, 2025 5:15 PM","5.1","72.4","15.6",redacted,redacted
+"redacted","COMPLETED","Monday, November 3, 2025 6:54 AM","7.7","81.6","20.4",redacted,redacted
+"redacted","COMPLETED","Monday, November 3, 2025 6:05 AM","12.6","138.4","34.6",redacted,redacted
+"redacted","COMPLETED","Monday, November 3, 2025 7:40 AM","7.4","79.2","19.8",redacted,redacted
+"redacted","COMPLETED","Monday, November 3, 2025 12:00 PM","9.3","98.4","24.6",redacted,redacted
+"redacted","COMPLETED","Monday, November 3, 2025 9:34 PM","7.5","79.2","19.8",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Monday, November 3, 2025 8:58 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Monday, November 3, 2025 9:36 AM","9.9","106.4","26.6",redacted,redacted
+"redacted","COMPLETED","Monday, November 3, 2025 9:14 PM","9.7","104.0","26.0",redacted,redacted
+"redacted","COMPLETED","Monday, November 3, 2025 1:25 PM","10.1","108.8","27.2",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Monday, November 3, 2025 10:56 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Monday, November 3, 2025 6:10 PM","11.2","121.6","30.4",redacted,redacted
+"redacted","COMPLETED","Monday, November 3, 2025 5:40 PM","5.8","67.2","16.8",redacted,redacted
+"redacted","COMPLETED","Monday, November 3, 2025 10:21 AM","3.5","50.4","12.6",redacted,redacted
+"redacted","COMPLETED","Monday, November 3, 2025 12:32 PM","10.4","112.8","28.2",redacted,redacted
+"redacted","COMPLETED","Monday, November 3, 2025 8:14 PM","7.4","79.2","19.8",redacted,redacted
+"redacted","COMPLETED","Monday, November 3, 2025 10:24 PM","20.7","236.0","59.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Monday, November 3, 2025 11:21 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Monday, November 3, 2025 8:16 AM","11.1","120.8","30.2",redacted,redacted
+"redacted","COMPLETED","Monday, November 3, 2025 11:02 AM","2.4","43.2","10.8",redacted,redacted
+"redacted","COMPLETED","Monday, November 3, 2025 7:07 PM","15.7","176.0","44.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 4, 2025 10:06 PM","10.0","108.0","27.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 4, 2025 6:30 PM","20.5","233.6","58.4",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Tuesday, November 4, 2025 6:11 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, November 4, 2025 10:45 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 4, 2025 8:03 PM","7.6","80.0","20.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 4, 2025 5:23 PM","8.5","89.6","22.4",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 4, 2025 4:27 PM","8.8","92.8","23.2",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 4, 2025 8:52 PM","17.0","191.2","47.8",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 4, 2025 3:11 PM","13.9","153.6","38.4",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 5, 2025 10:07 PM","7.1","76.8","19.2",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 5, 2025 7:32 PM","10.9","117.6","29.4",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 5, 2025 8:39 PM","19.4","220.0","55.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 5, 2025 5:15 PM","9.4","150.0","25.0",redacted,redacted
+"redacted","COMPLETED","Thursday, November 6, 2025 6:54 AM","16.0","229.2","44.8",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 5, 2025 6:21 PM","8.4","88.0","22.0",redacted,redacted
+"redacted","COMPLETED","Thursday, November 6, 2025 6:26 AM","6.7","73.6","18.4",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Wednesday, November 5, 2025 8:20 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, November 6, 2025 9:15 PM","16.1","180.0","45.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Thursday, November 6, 2025 6:10 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, November 6, 2025 8:04 AM","5.7","66.4","16.6",redacted,redacted
+"redacted","COMPLETED","Thursday, November 6, 2025 5:21 PM","16.4","184.8","46.2",redacted,redacted
+"redacted","COMPLETED","Thursday, November 6, 2025 8:03 PM","10.6","114.4","28.6",redacted,redacted
+"redacted","COMPLETED","Thursday, November 6, 2025 6:23 PM","14.8","164.8","41.2",redacted,redacted
+"redacted","DRIVER CANCELLED","Thursday, November 6, 2025 10:47 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, November 6, 2025 8:39 PM","7.9","82.4","20.6",redacted,redacted
+"redacted","DRIVER CANCELLED","Thursday, November 6, 2025 8:35 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, November 7, 2025 9:44 AM","16.8","188.8","47.2",redacted,redacted
+"redacted","COMPLETED","Friday, November 7, 2025 8:23 AM","26.5","304.8","76.2",redacted,redacted
+"redacted","COMPLETED","Friday, November 7, 2025 11:44 AM","4.0","54.4","13.6",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, November 11, 2025 8:42 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 11, 2025 10:31 PM","12.0","131.2","32.8",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 11, 2025 9:05 PM","9.0","95.2","23.8",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, November 11, 2025 11:07 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Tuesday, November 11, 2025 9:42 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 11, 2025 4:31 PM","10.2","109.6","27.4",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 11, 2025 11:31 PM","16.3","183.2","45.8",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, November 11, 2025 8:49 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, November 11, 2025 8:47 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 11, 2025 5:37 PM","13.9","153.6","38.4",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Wednesday, November 12, 2025 12:30 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, November 11, 2025 8:48 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 12, 2025 6:09 PM","6.9","75.2","18.8",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 12, 2025 5:46 PM","3.3","49.6","12.4",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 12, 2025 9:37 PM","2.9","46.4","11.6",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 12, 2025 7:44 PM","7.0","76.0","19.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 12, 2025 6:52 PM","5.0","61.6","15.4",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, November 12, 2025 8:20 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 12, 2025 9:58 PM","8.7","92.0","23.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 12, 2025 10:52 PM","4.4","57.6","14.4",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 12, 2025 10:25 PM","9.8","104.0","26.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 12, 2025 4:49 PM","10.7","116.0","29.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 12, 2025 7:24 PM","3.9","53.6","13.4",redacted,redacted
+"redacted","COMPLETED","Thursday, November 13, 2025 9:42 PM","12.1","132.0","33.0",redacted,redacted
+"redacted","COMPLETED","Thursday, November 13, 2025 11:05 PM","5.1","62.4","15.6",redacted,redacted
+"redacted","COMPLETED","Thursday, November 13, 2025 8:51 PM","17.0","191.2","47.8",redacted,redacted
+"redacted","COMPLETED","Friday, November 14, 2025 7:38 AM","12.1","132.8","33.2",redacted,redacted
+"redacted","DRIVER CANCELLED","Thursday, November 13, 2025 11:21 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Thursday, November 13, 2025 8:36 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, November 13, 2025 10:53 PM","2.3","61.6","10.4",redacted,redacted
+"redacted","COMPLETED","Friday, November 14, 2025 7:06 AM","9.6","121.6","25.4",redacted,redacted
+"redacted","COMPLETED","Thursday, November 13, 2025 10:15 PM","1.8","40.0","10.0",redacted,redacted
+"redacted","COMPLETED","Thursday, November 13, 2025 10:26 PM","7.4","78.4","19.6",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Friday, November 14, 2025 11:23 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, November 14, 2025 4:51 PM","12.2","134.4","33.6",redacted,redacted
+"redacted","DRIVER CANCELLED","Friday, November 14, 2025 4:41 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, November 14, 2025 9:45 AM","10.9","117.6","29.4",redacted,redacted
+"redacted","COMPLETED","Friday, November 14, 2025 11:39 AM","5.6","65.6","16.4",redacted,redacted
+"redacted","COMPLETED","Friday, November 14, 2025 8:31 AM","8.8","105.6","23.4",redacted,redacted
+"redacted","COMPLETED","Friday, November 14, 2025 11:08 AM","2.2","40.8","10.2",redacted,redacted
+"redacted","COMPLETED","Friday, November 14, 2025 10:44 AM","6.0","68.8","17.2",redacted,redacted
+"redacted","COMPLETED","Friday, November 14, 2025 9:06 AM","1.8","40.0","10.0",redacted,redacted
+"redacted","COMPLETED","Friday, November 14, 2025 9:21 AM","4.7","59.2","14.8",redacted,redacted
+"redacted","COMPLETED","Friday, November 14, 2025 10:25 AM","4.2","66.0","14.0",redacted,redacted
+"redacted","COMPLETED","Monday, November 17, 2025 8:39 AM","10.2","109.6","27.4",redacted,redacted
+"redacted","COMPLETED","Monday, November 17, 2025 8:11 AM","8.6","90.4","22.6",redacted,redacted
+"redacted","COMPLETED","Monday, November 17, 2025 9:21 AM","12.5","137.6","34.4",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Monday, November 17, 2025 11:02 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Monday, November 17, 2025 12:30 PM","11.7","197.2","31.8",redacted,redacted
+"redacted","COMPLETED","Monday, November 17, 2025 1:16 PM","8.3","86.4","21.6",redacted,redacted
+"redacted","DRIVER CANCELLED","Monday, November 17, 2025 12:28 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Monday, November 17, 2025 11:27 AM","4.7","59.2","14.8",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 18, 2025 7:11 AM","21.6","246.4","61.6",redacted,redacted
+"redacted","COMPLETED","Monday, November 17, 2025 11:51 AM","8.0","83.2","20.8",redacted,redacted
+"redacted","COMPLETED","Monday, November 17, 2025 10:05 AM","9.3","99.2","24.8",redacted,redacted
+"redacted","COMPLETED","Monday, November 17, 2025 11:03 AM","6.2","70.4","17.6",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, November 18, 2025 1:27 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, November 18, 2025 8:47 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 18, 2025 3:34 PM","11.5","125.6","31.4",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 18, 2025 8:11 PM","3.4","49.6","12.4",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, November 18, 2025 4:11 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 18, 2025 1:41 PM","5.2","62.4","15.6",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 18, 2025 7:29 PM","9.6","102.4","25.6",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, November 18, 2025 1:18 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 18, 2025 7:03 PM","7.2","77.6","19.4",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, November 18, 2025 12:07 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 18, 2025 2:16 PM","8.6","90.4","22.6",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, November 18, 2025 10:09 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 18, 2025 11:38 AM","6.0","68.8","17.2",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, November 18, 2025 11:02 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 18, 2025 9:29 AM","14.3","159.2","39.8",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, November 19, 2025 7:59 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 18, 2025 12:09 PM","3.5","51.2","12.8",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, November 18, 2025 8:04 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 18, 2025 10:26 AM","10.0","107.2","26.8",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 18, 2025 2:44 PM","11.3","122.4","30.6",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, November 18, 2025 11:09 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 18, 2025 5:30 PM","22.3","255.2","63.8",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 18, 2025 9:05 AM","9.9","105.6","26.4",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Tuesday, November 18, 2025 3:32 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, November 18, 2025 11:13 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 18, 2025 4:13 PM","2.5","44.0","11.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 18, 2025 4:51 PM","8.6","90.4","22.6",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 18, 2025 8:25 AM","7.8","109.4","20.6",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 19, 2025 4:33 PM","4.0","54.4","13.6",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 19, 2025 11:05 AM","3.8","52.8","13.2",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 19, 2025 10:51 AM","2.0","40.0","10.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 19, 2025 3:33 PM","4.2","56.0","14.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, November 19, 2025 10:36 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, November 19, 2025 8:07 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, November 19, 2025 10:25 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 19, 2025 1:47 PM","8.2","85.6","21.4",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 19, 2025 9:16 AM","12.0","131.2","32.8",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 19, 2025 9:48 AM","10.7","116.0","29.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 19, 2025 4:56 PM","6.3","132.2","17.8",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 19, 2025 3:51 PM","11.4","124.8","31.2",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 19, 2025 8:38 AM","10.1","108.8","27.2",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 19, 2025 8:13 AM","6.5","92.0","18.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 19, 2025 2:59 PM","6.4","72.0","18.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Wednesday, November 19, 2025 3:27 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, November 19, 2025 10:36 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 19, 2025 7:50 PM","8.1","84.8","21.2",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Wednesday, November 19, 2025 7:16 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 19, 2025 8:25 PM","13.3","147.2","36.8",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 19, 2025 11:56 AM","36.7","428.0","107.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Wednesday, November 19, 2025 10:40 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, November 19, 2025 5:32 PM","8.6","90.4","22.6",redacted,redacted
+"redacted","COMPLETED","Friday, November 21, 2025 7:22 AM","16.5","185.6","46.4",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Thursday, November 20, 2025 10:27 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, November 20, 2025 8:12 PM","13.6","150.4","37.6",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Thursday, November 20, 2025 7:31 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, November 20, 2025 7:37 PM","8.1","84.0","21.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Friday, November 21, 2025 7:17 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, November 20, 2025 9:23 PM","7.8","81.6","20.4",redacted,redacted
+"redacted","COMPLETED","Thursday, November 20, 2025 6:22 PM","10.4","112.0","28.0",redacted,redacted
+"redacted","COMPLETED","Friday, November 21, 2025 7:32 PM","7.2","177.6","19.4",redacted,redacted
+"redacted","COMPLETED","Friday, November 21, 2025 2:52 PM","12.0","131.2","32.8",redacted,redacted
+"redacted","COMPLETED","Friday, November 21, 2025 8:33 PM","14.8","164.8","41.2",redacted,redacted
+"redacted","COMPLETED","Friday, November 21, 2025 6:55 PM","9.1","96.8","24.2",redacted,redacted
+"redacted","COMPLETED","Friday, November 21, 2025 8:56 AM","11.4","124.0","31.0",redacted,redacted
+"redacted","COMPLETED","Friday, November 21, 2025 4:20 PM","17.8","200.8","50.2",redacted,redacted
+"redacted","DRIVER CANCELLED","Friday, November 21, 2025 2:23 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Friday, November 21, 2025 2:06 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, November 21, 2025 10:41 AM","2.7","45.6","11.4",redacted,redacted
+"redacted","COMPLETED","Friday, November 21, 2025 9:19 PM","7.5","79.2","19.8",redacted,redacted
+"redacted","COMPLETED","Friday, November 21, 2025 12:58 PM","7.7","89.8","20.2",redacted,redacted
+"redacted","COMPLETED","Friday, November 21, 2025 10:05 AM","4.6","58.4","14.6",redacted,redacted
+"redacted","COMPLETED","Friday, November 21, 2025 11:23 AM","12.1","132.8","33.2",redacted,redacted
+"redacted","COMPLETED","Friday, November 21, 2025 5:31 PM","10.9","118.4","29.6",redacted,redacted
+"redacted","COMPLETED","Friday, November 21, 2025 9:30 AM","6.8","74.4","18.6",redacted,redacted
+"redacted","COMPLETED","Monday, November 24, 2025 8:42 PM","6.7","73.6","18.4",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 25, 2025 6:23 AM","14.6","162.4","40.6",redacted,redacted
+"redacted","COMPLETED","Monday, November 24, 2025 7:15 PM","7.4","79.2","19.8",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 25, 2025 7:24 AM","9.0","95.2","23.8",redacted,redacted
+"redacted","COMPLETED","Monday, November 24, 2025 7:52 PM","10.7","116.0","29.0",redacted,redacted
+"redacted","COMPLETED","Monday, November 24, 2025 6:01 PM","8.5","89.6","22.4",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 25, 2025 11:26 AM","10.3","110.4","27.6",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 25, 2025 11:59 AM","2.9","46.4","11.6",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Tuesday, November 25, 2025 9:29 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 25, 2025 8:52 AM","10.9","117.6","29.4",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Tuesday, November 25, 2025 11:17 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 25, 2025 9:53 AM","4.5","107.6","14.4",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 25, 2025 10:23 AM","6.1","69.6","17.4",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 25, 2025 4:59 PM","8.9","94.4","23.6",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 25, 2025 3:21 PM","12.2","133.6","33.4",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 25, 2025 12:54 PM","9.4","100.0","25.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Tuesday, November 25, 2025 8:03 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 25, 2025 10:56 AM","3.1","48.0","12.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Tuesday, November 25, 2025 12:20 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 25, 2025 4:12 PM","9.4","100.0","25.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, November 25, 2025 12:35 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, November 25, 2025 8:10 PM","21.2","240.8","60.2",redacted,redacted
+"redacted","COMPLETED","Thursday, November 27, 2025 2:03 PM","2.2","41.6","10.4",redacted,redacted
+"redacted","DRIVER CANCELLED","Thursday, November 27, 2025 4:27 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Thursday, November 27, 2025 9:06 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, November 27, 2025 8:00 AM","9.9","106.4","26.6",redacted,redacted
+"redacted","COMPLETED","Thursday, November 27, 2025 6:50 PM","15.0","167.2","41.8",redacted,redacted
+"redacted","COMPLETED","Thursday, November 27, 2025 10:36 AM","3.8","52.8","13.2",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Thursday, November 27, 2025 4:10 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, November 27, 2025 3:28 PM","13.7","152.0","38.0",redacted,redacted
+"redacted","COMPLETED","Thursday, November 27, 2025 8:54 AM","0.9","40.0","10.0",redacted,redacted
+"redacted","COMPLETED","Thursday, November 27, 2025 2:38 PM","12.1","132.0","33.0",redacted,redacted
+"redacted","COMPLETED","Thursday, November 27, 2025 9:08 AM","14.4","160.0","40.0",redacted,redacted
+"redacted","COMPLETED","Thursday, November 27, 2025 1:40 PM","6.2","70.4","17.6",redacted,redacted
+"redacted","DRIVER CANCELLED","Thursday, November 27, 2025 9:57 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, November 27, 2025 12:57 PM","8.2","85.6","21.4",redacted,redacted
+"redacted","COMPLETED","Thursday, November 27, 2025 9:58 AM","12.7","140.0","35.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Thursday, November 27, 2025 11:04 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Thursday, November 27, 2025 2:21 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Thursday, November 27, 2025 4:03 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Monday, December 1, 2025 3:29 PM","3.2","48.8","12.2",redacted,redacted
+"redacted","DRIVER CANCELLED","Monday, December 1, 2025 3:44 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Monday, December 1, 2025 8:21 PM","15.2","207.8","42.2",redacted,redacted
+"redacted","DRIVER CANCELLED","Monday, December 1, 2025 4:44 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Monday, December 1, 2025 7:26 PM","17.2","194.4","48.6",redacted,redacted
+"redacted","COMPLETED","Monday, December 1, 2025 3:50 PM","7.8","81.6","20.4",redacted,redacted
+"redacted","COMPLETED","Monday, December 1, 2025 9:27 PM","9.9","105.6","26.4",redacted,redacted
+"redacted","DRIVER CANCELLED","Monday, December 1, 2025 4:30 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Monday, December 1, 2025 4:26 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Monday, December 1, 2025 4:33 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Monday, December 1, 2025 4:56 PM","13.3","146.4","36.6",redacted,redacted
+"redacted","COMPLETED","Monday, December 1, 2025 6:21 PM","12.3","134.4","33.6",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 2, 2025 6:45 PM","10.9","118.4","29.6",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, December 3, 2025 12:16 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, December 3, 2025 12:26 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Tuesday, December 2, 2025 11:46 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 2, 2025 7:21 PM","4.5","58.4","14.6",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 2, 2025 11:28 PM","5.3","63.2","15.8",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 2, 2025 5:21 PM","13.0","143.2","35.8",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 2, 2025 8:28 PM","17.5","197.6","49.4",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 3, 2025 12:33 AM","12.7","139.2","34.8",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 3, 2025 12:03 AM","5.3","64.0","16.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, December 2, 2025 8:22 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, December 2, 2025 11:28 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 2, 2025 9:25 PM","8.6","90.4","22.6",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, December 2, 2025 11:47 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 2, 2025 7:45 PM","9.0","94.4","23.6",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Wednesday, December 3, 2025 12:15 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, December 4, 2025 7:47 AM","11.5","124.8","31.2",redacted,redacted
+"redacted","COMPLETED","Thursday, December 4, 2025 6:51 AM","16.9","190.4","47.6",redacted,redacted
+"redacted","COMPLETED","Thursday, December 4, 2025 4:13 PM","4.3","56.8","14.2",redacted,redacted
+"redacted","DRIVER CANCELLED","Thursday, December 4, 2025 2:16 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, December 4, 2025 11:28 AM","10.1","108.0","27.0",redacted,redacted
+"redacted","COMPLETED","Thursday, December 4, 2025 8:21 PM","6.7","73.6","18.4",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Thursday, December 4, 2025 3:12 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, December 4, 2025 8:37 AM","8.6","90.4","22.6",redacted,redacted
+"redacted","COMPLETED","Thursday, December 4, 2025 9:08 PM","17.2","193.6","48.4",redacted,redacted
+"redacted","COMPLETED","Thursday, December 4, 2025 10:26 AM","11.3","122.4","30.6",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Thursday, December 4, 2025 11:56 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, December 4, 2025 9:42 AM","2.0","40.0","10.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Thursday, December 4, 2025 10:47 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, December 4, 2025 4:47 PM","9.5","121.6","25.4",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Thursday, December 4, 2025 2:16 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, December 4, 2025 9:59 AM","4.4","56.8","14.2",redacted,redacted
+"redacted","COMPLETED","Thursday, December 4, 2025 12:00 PM","15.6","173.6","43.4",redacted,redacted
+"redacted","COMPLETED","Thursday, December 4, 2025 7:40 PM","12.4","136.0","34.0",redacted,redacted
+"redacted","COMPLETED","Thursday, December 4, 2025 3:13 PM","9.5","100.8","25.2",redacted,redacted
+"redacted","COMPLETED","Thursday, December 4, 2025 2:18 PM","9.3","98.4","24.6",redacted,redacted
+"redacted","DRIVER CANCELLED","Thursday, December 4, 2025 9:01 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Thursday, December 4, 2025 9:07 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Thursday, December 4, 2025 10:34 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 9, 2025 7:47 AM","5.8","87.2","15.12",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 9, 2025 6:33 AM","16.1","180.0","40.5",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 9, 2025 2:42 PM","11.9","130.4","29.34",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 9, 2025 10:04 AM","4.3","56.8","12.78",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 9, 2025 10:26 AM","3.9","73.6","12.06",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 9, 2025 11:09 AM","14.6","212.4","36.54",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 9, 2025 12:03 PM","9.1","96.8","21.78",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Tuesday, December 9, 2025 9:18 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 9, 2025 3:27 PM","16.5","284.8","41.58",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 10, 2025 7:36 AM","13.0","143.2","32.22",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, December 9, 2025 11:02 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 9, 2025 1:56 PM","8.3","86.4","19.44",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 9, 2025 8:12 AM","3.8","102.8","11.88",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, December 9, 2025 11:07 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 9, 2025 6:15 PM","7.5","100.0","18.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 9, 2025 9:30 AM","7.7","80.8","18.18",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 9, 2025 8:38 AM","7.9","82.4","18.54",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 9, 2025 1:14 PM","6.9","75.2","16.92",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 9, 2025 4:45 PM","15.5","173.6","39.06",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 10, 2025 8:33 AM","6.0","118.8","15.48",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 10, 2025 1:35 PM","7.6","80.8","18.18",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 10, 2025 2:30 PM","5.4","84.0","14.4",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 10, 2025 9:07 PM","9.1","96.8","21.78",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, December 10, 2025 2:59 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 10, 2025 5:02 PM","11.1","120.0","27.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 10, 2025 9:16 AM","15.3","171.2","38.52",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 10, 2025 12:17 PM","7.6","80.0","18.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 10, 2025 8:17 PM","13.9","154.4","34.74",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 10, 2025 7:03 PM","12.5","137.6","30.96",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 10, 2025 6:20 PM","9.7","104.0","23.4",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 10, 2025 3:10 PM","24.0","275.2","61.92",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 10, 2025 11:21 AM","10.0","108.0","24.3",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 10, 2025 10:29 AM","11.2","121.6","27.36",redacted,redacted
+"redacted","DRIVER CANCELLED","Thursday, December 11, 2025 7:59 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, December 11, 2025 8:42 PM","10.0","107.2","24.12",redacted,redacted
+"redacted","COMPLETED","Thursday, December 11, 2025 9:21 PM","16.8","188.8","42.48",redacted,redacted
+"redacted","COMPLETED","Monday, December 15, 2025 9:52 PM","11.1","120.8","27.18",redacted,redacted
+"redacted","COMPLETED","Monday, December 15, 2025 11:09 PM","7.2","77.6","17.46",redacted,redacted
+"redacted","COMPLETED","Monday, December 15, 2025 6:13 PM","19.9","225.6","50.76",redacted,redacted
+"redacted","COMPLETED","Monday, December 15, 2025 10:32 PM","6.7","73.6","16.56",redacted,redacted
+"redacted","COMPLETED","Monday, December 15, 2025 9:00 PM","11.9","129.6","29.16",redacted,redacted
+"redacted","COMPLETED","Monday, December 15, 2025 8:00 PM","15.1","218.0","37.8",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 16, 2025 6:09 PM","17.6","198.4","44.64",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 16, 2025 10:33 PM","12.1","132.0","29.7",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 16, 2025 3:00 PM","13.6","150.4","33.84",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 16, 2025 7:26 PM","11.1","120.8","27.18",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 16, 2025 8:10 PM","16.9","190.4","42.84",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 16, 2025 4:53 PM","15.1","188.8","37.98",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 16, 2025 8:57 PM","12.8","190.8","31.68",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, December 16, 2025 10:22 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 16, 2025 4:01 PM","9.3","99.2","22.32",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, December 17, 2025 5:51 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, December 17, 2025 2:55 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 17, 2025 4:44 PM","12.0","131.2","29.52",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, December 17, 2025 8:29 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 17, 2025 7:59 PM","9.4","100.0","22.5",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 17, 2025 8:57 PM","11.8","128.8","28.98",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 17, 2025 3:08 PM","10.2","108.8","24.48",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 17, 2025 5:59 PM","13.0","163.2","32.22",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 17, 2025 6:53 PM","10.7","115.2","25.92",redacted,redacted
+"redacted","COMPLETED","Friday, December 19, 2025 8:39 PM","18.9","231.6","48.06",redacted,redacted
+"redacted","COMPLETED","Friday, December 19, 2025 6:13 PM","20.8","236.8","53.28",redacted,redacted
+"redacted","COMPLETED","Friday, December 19, 2025 9:51 PM","6.2","69.6","15.66",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Friday, December 19, 2025 11:43 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Saturday, December 20, 2025 12:08 AM","7.1","96.8","17.28",redacted,redacted
+"redacted","COMPLETED","Friday, December 19, 2025 10:39 PM","19.6","222.4","50.04",redacted,redacted
+"redacted","COMPLETED","Friday, December 19, 2025 8:13 PM","8.9","94.4","21.24",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Saturday, December 20, 2025 12:01 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, December 19, 2025 7:20 PM","12.9","142.4","32.04",redacted,redacted
+"redacted","COMPLETED","Monday, December 22, 2025 5:02 PM","9.8","104.8","23.58",redacted,redacted
+"redacted","COMPLETED","Monday, December 22, 2025 10:03 PM","11.0","118.4","26.64",redacted,redacted
+"redacted","COMPLETED","Monday, December 22, 2025 7:40 PM","7.6","80.0","18.0",redacted,redacted
+"redacted","COMPLETED","Monday, December 22, 2025 7:06 PM","12.9","142.4","32.04",redacted,redacted
+"redacted","COMPLETED","Monday, December 22, 2025 8:28 PM","8.5","89.6","20.16",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 23, 2025 12:35 AM","13.8","153.6","34.56",redacted,redacted
+"redacted","COMPLETED","Monday, December 22, 2025 9:23 PM","11.4","124.0","27.9",redacted,redacted
+"redacted","COMPLETED","Monday, December 22, 2025 9:08 PM","3.1","68.0","10.8",redacted,redacted
+"redacted","COMPLETED","Monday, December 22, 2025 4:27 PM","12.4","136.0","30.6",redacted,redacted
+"redacted","COMPLETED","Monday, December 22, 2025 5:51 PM","12.9","141.6","31.86",redacted,redacted
+"redacted","COMPLETED","Monday, December 22, 2025 10:44 PM","22.6","257.6","57.96",redacted,redacted
+"redacted","COMPLETED","Saturday, December 27, 2025 6:56 AM","16.8","188.8","42.48",redacted,redacted
+"redacted","COMPLETED","Saturday, December 27, 2025 6:35 AM","4.6","59.2","13.32",redacted,redacted
+"redacted","COMPLETED","Saturday, December 27, 2025 7:45 AM","24.3","279.2","62.82",redacted,redacted
+"redacted","COMPLETED","Saturday, December 27, 2025 5:56 AM","13.9","154.4","34.74",redacted,redacted
+"redacted","COMPLETED","Saturday, December 27, 2025 2:34 PM","4.8","60.0","13.5",redacted,redacted
+"redacted","COMPLETED","Saturday, December 27, 2025 9:17 AM","14.8","164.8","37.08",redacted,redacted
+"redacted","COMPLETED","Saturday, December 27, 2025 3:30 PM","6.8","74.4","16.74",redacted,redacted
+"redacted","COMPLETED","Saturday, December 27, 2025 8:52 AM","5.0","61.6","13.86",redacted,redacted
+"redacted","COMPLETED","Saturday, December 27, 2025 10:52 AM","31.4","364.0","81.9",redacted,redacted
+"redacted","COMPLETED","Saturday, December 27, 2025 2:52 PM","8.2","105.6","19.26",redacted,redacted
+"redacted","COMPLETED","Saturday, December 27, 2025 4:58 PM","3.5","51.2","11.52",redacted,redacted
+"redacted","COMPLETED","Saturday, December 27, 2025 4:03 PM","13.5","148.8","33.48",redacted,redacted
+"redacted","COMPLETED","Saturday, December 27, 2025 1:07 PM","22.5","257.6","57.96",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Saturday, December 27, 2025 2:08 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Saturday, December 27, 2025 2:11 PM","3.9","53.6","12.06",redacted,redacted
+"redacted","DRIVER CANCELLED","Saturday, December 27, 2025 9:14 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Saturday, December 27, 2025 10:02 AM","15.9","178.4","40.14",redacted,redacted
+"redacted","COMPLETED","Sunday, December 28, 2025 5:42 PM","4.0","86.4","12.24",redacted,redacted
+"redacted","COMPLETED","Sunday, December 28, 2025 8:42 PM","8.2","85.6","19.26",redacted,redacted
+"redacted","COMPLETED","Sunday, December 28, 2025 9:17 PM","10.7","116.0","26.1",redacted,redacted
+"redacted","COMPLETED","Sunday, December 28, 2025 9:52 PM","10.4","112.0","25.2",redacted,redacted
+"redacted","DRIVER CANCELLED","Sunday, December 28, 2025 4:53 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Sunday, December 28, 2025 6:29 PM","8.4","88.8","19.98",redacted,redacted
+"redacted","COMPLETED","Sunday, December 28, 2025 7:02 PM","1.4","60.0","9.0",redacted,redacted
+"redacted","COMPLETED","Sunday, December 28, 2025 4:56 PM","7.4","79.2","17.82",redacted,redacted
+"redacted","COMPLETED","Sunday, December 28, 2025 11:00 PM","6.6","103.6","16.56",redacted,redacted
+"redacted","COMPLETED","Sunday, December 28, 2025 8:02 PM","11.0","119.2","26.82",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Sunday, December 28, 2025 7:54 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Sunday, December 28, 2025 7:17 PM","8.2","85.6","19.26",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Sunday, December 28, 2025 5:33 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Sunday, December 28, 2025 6:03 PM","5.8","67.2","15.12",redacted,redacted
+"redacted","COMPLETED","Monday, December 29, 2025 8:41 PM","12.8","160.0","31.5",redacted,redacted
+"redacted","COMPLETED","Monday, December 29, 2025 3:28 PM","25.2","289.6","65.16",redacted,redacted
+"redacted","COMPLETED","Monday, December 29, 2025 10:39 PM","7.8","81.6","18.36",redacted,redacted
+"redacted","COMPLETED","Monday, December 29, 2025 4:41 PM","1.7","40.0","9.0",redacted,redacted
+"redacted","COMPLETED","Monday, December 29, 2025 9:40 PM","7.6","80.8","18.18",redacted,redacted
+"redacted","COMPLETED","Monday, December 29, 2025 7:11 PM","8.3","87.2","19.62",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Monday, December 29, 2025 4:37 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Monday, December 29, 2025 7:32 PM","9.2","117.6","21.96",redacted,redacted
+"redacted","COMPLETED","Monday, December 29, 2025 5:37 PM","4.3","56.8","12.78",redacted,redacted
+"redacted","COMPLETED","Monday, December 29, 2025 6:24 PM","13.1","144.0","32.4",redacted,redacted
+"redacted","COMPLETED","Monday, December 29, 2025 8:21 PM","6.2","70.4","15.84",redacted,redacted
+"redacted","COMPLETED","Monday, December 29, 2025 4:54 PM","12.8","140.8","31.68",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, December 30, 2025 6:01 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 30, 2025 7:32 PM","5.4","64.8","14.58",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 30, 2025 8:49 PM","1.9","40.0","9.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 30, 2025 6:37 PM","10.9","118.4","26.64",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 30, 2025 9:02 PM","4.3","56.8","12.78",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 30, 2025 9:38 PM","5.2","82.4","14.04",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 30, 2025 8:20 PM","8.3","86.4","19.44",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, December 30, 2025 9:34 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, December 30, 2025 8:16 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, December 31, 2025 12:02 AM","5.4","64.0","14.4",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 30, 2025 7:59 PM","2.5","44.0","9.9",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 30, 2025 10:05 PM","11.6","126.4","28.44",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 30, 2025 6:15 PM","3.7","52.0","11.7",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 30, 2025 4:06 PM","13.3","146.4","32.94",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 30, 2025 5:41 PM","4.8","60.0","13.5",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 30, 2025 7:19 PM","3.3","48.8","10.98",redacted,redacted
+"redacted","COMPLETED","Tuesday, December 30, 2025 5:20 PM","3.6","52.0","11.7",redacted,redacted
+"redacted","COMPLETED","Wednesday, January 7, 2026 6:58 AM","10.6","114.4","25.74",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 6, 2026 6:32 PM","11.4","174.8","28.08",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 6, 2026 9:44 PM","15.6","223.6","39.06",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 6, 2026 4:53 PM","14.8","164.8","37.08",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 6, 2026 8:25 PM","7.8","101.6","18.36",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 6, 2026 10:24 PM","5.9","88.0","15.3",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 6, 2026 8:56 PM","12.2","133.6","30.06",redacted,redacted
+"redacted","COMPLETED","Wednesday, January 7, 2026 7:41 AM","16.4","184.0","41.4",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Wednesday, January 7, 2026 7:35 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Tuesday, January 6, 2026 3:57 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, January 7, 2026 1:21 PM","0.9","40.0","9.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, January 7, 2026 8:24 PM","5.8","87.2","15.12",redacted,redacted
+"redacted","COMPLETED","Wednesday, January 7, 2026 10:52 AM","7.6","80.0","18.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, January 7, 2026 10:06 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, January 7, 2026 12:46 PM","8.4","88.0","19.8",redacted,redacted
+"redacted","COMPLETED","Wednesday, January 7, 2026 11:55 AM","15.1","168.0","37.8",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Wednesday, January 7, 2026 1:32 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, January 7, 2026 1:55 PM","8.3","87.2","19.62",redacted,redacted
+"redacted","COMPLETED","Wednesday, January 7, 2026 9:13 AM","4.1","75.2","12.42",redacted,redacted
+"redacted","COMPLETED","Wednesday, January 7, 2026 8:41 AM","2.7","44.8","10.08",redacted,redacted
+"redacted","COMPLETED","Wednesday, January 7, 2026 6:20 PM","21.3","243.2","54.72",redacted,redacted
+"redacted","COMPLETED","Wednesday, January 7, 2026 1:37 PM","6.2","70.4","15.84",redacted,redacted
+"redacted","COMPLETED","Wednesday, January 7, 2026 2:45 PM","5.2","63.2","14.22",redacted,redacted
+"redacted","COMPLETED","Wednesday, January 7, 2026 4:03 PM","7.9","82.4","18.54",redacted,redacted
+"redacted","COMPLETED","Wednesday, January 7, 2026 2:32 PM","1.6","40.0","9.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, January 7, 2026 9:47 AM","2.4","43.2","9.72",redacted,redacted
+"redacted","COMPLETED","Wednesday, January 7, 2026 3:10 PM","8.1","84.8","19.08",redacted,redacted
+"redacted","COMPLETED","Thursday, January 8, 2026 8:25 PM","4.7","59.2","13.32",redacted,redacted
+"redacted","COMPLETED","Thursday, January 8, 2026 9:14 PM","14.2","178.4","35.64",redacted,redacted
+"redacted","COMPLETED","Thursday, January 8, 2026 7:21 PM","11.3","162.4","27.54",redacted,redacted
+"redacted","DRIVER CANCELLED","Thursday, January 8, 2026 7:05 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, January 8, 2026 7:12 PM","7.2","76.8","17.28",redacted,redacted
+"redacted","DRIVER CANCELLED","Thursday, January 8, 2026 5:00 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, January 8, 2026 8:58 PM","2.2","41.6","9.36",redacted,redacted
+"redacted","COMPLETED","Thursday, January 8, 2026 5:24 PM","7.1","76.8","17.28",redacted,redacted
+"redacted","COMPLETED","Thursday, January 8, 2026 6:06 PM","18.6","210.4","47.34",redacted,redacted
+"redacted","COMPLETED","Thursday, January 8, 2026 4:23 PM","12.6","139.2","31.32",redacted,redacted
+"redacted","DRIVER CANCELLED","Thursday, January 8, 2026 8:43 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, January 9, 2026 5:00 PM","8.9","93.6","21.06",redacted,redacted
+"redacted","COMPLETED","Friday, January 9, 2026 6:06 PM","5.7","67.2","15.12",redacted,redacted
+"redacted","COMPLETED","Friday, January 9, 2026 7:44 PM","14.5","160.8","36.18",redacted,redacted
+"redacted","COMPLETED","Friday, January 9, 2026 6:36 PM","17.2","193.6","43.56",redacted,redacted
+"redacted","DRIVER CANCELLED","Friday, January 9, 2026 9:15 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, January 9, 2026 3:10 PM","24.9","285.6","64.26",redacted,redacted
+"redacted","COMPLETED","Friday, January 9, 2026 8:23 PM","15.9","178.4","40.14",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Friday, January 9, 2026 4:48 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Friday, January 9, 2026 4:46 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, January 9, 2026 9:21 PM","16.7","187.2","42.12",redacted,redacted
+"redacted","COMPLETED","Monday, January 12, 2026 8:54 PM","3.5","51.2","11.52",redacted,redacted
+"redacted","COMPLETED","Monday, January 12, 2026 9:11 PM","5.2","63.2","14.22",redacted,redacted
+"redacted","COMPLETED","Monday, January 12, 2026 6:15 PM","12.1","172.0","29.7",redacted,redacted
+"redacted","COMPLETED","Monday, January 12, 2026 8:11 PM","8.5","89.6","20.16",redacted,redacted
+"redacted","COMPLETED","Monday, January 12, 2026 9:37 PM","14.1","156.8","35.28",redacted,redacted
+"redacted","DRIVER CANCELLED","Monday, January 12, 2026 7:49 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Friday, January 16, 2026 6:11 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, January 16, 2026 10:01 PM","5.4","64.8","14.58",redacted,redacted
+"redacted","COMPLETED","Friday, January 16, 2026 9:10 PM","4.9","60.8","13.68",redacted,redacted
+"redacted","COMPLETED","Friday, January 16, 2026 7:53 PM","17.0","191.2","43.02",redacted,redacted
+"redacted","DRIVER CANCELLED","Friday, January 16, 2026 10:45 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, January 16, 2026 2:17 PM","6.9","75.2","16.92",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Friday, January 16, 2026 10:24 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Friday, January 16, 2026 10:41 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, January 16, 2026 2:55 PM","16.8","188.8","42.48",redacted,redacted
+"redacted","COMPLETED","Friday, January 16, 2026 6:11 PM","7.6","80.0","18.0",redacted,redacted
+"redacted","COMPLETED","Friday, January 16, 2026 7:06 PM","10.7","115.2","25.92",redacted,redacted
+"redacted","COMPLETED","Friday, January 16, 2026 4:06 PM","3.1","48.0","10.8",redacted,redacted
+"redacted","COMPLETED","Friday, January 16, 2026 4:34 PM","28.3","327.2","73.62",redacted,redacted
+"redacted","COMPLETED","Friday, January 16, 2026 9:37 PM","3.5","51.2","11.52",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 20, 2026 6:58 AM","15.5","193.6","39.06",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 20, 2026 6:29 AM","8.8","92.8","20.88",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 20, 2026 2:53 PM","5.8","68.0","15.3",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 20, 2026 1:42 PM","9.9","105.6","23.76",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 20, 2026 8:16 AM","11.3","122.4","27.54",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, January 20, 2026 10:43 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 20, 2026 9:26 AM","9.5","101.6","22.86",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 20, 2026 3:25 PM","11.6","126.4","28.44",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 20, 2026 11:23 AM","4.1","55.2","12.42",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, January 20, 2026 12:21 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, January 20, 2026 8:52 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 20, 2026 6:15 PM","11.1","120.8","27.18",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 20, 2026 9:57 AM","3.9","53.6","12.06",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 20, 2026 4:05 PM","9.6","102.4","23.04",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 20, 2026 1:07 PM","3.5","51.2","11.52",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 20, 2026 11:51 AM","2.1","40.8","9.18",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 20, 2026 4:40 PM","10.8","116.8","26.28",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 20, 2026 12:36 PM","6.8","74.4","16.74",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 20, 2026 7:21 PM","25.1","288.0","64.8",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Tuesday, January 20, 2026 12:12 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 20, 2026 10:50 AM","3.5","71.2","11.52",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Tuesday, January 20, 2026 11:44 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 20, 2026 10:17 AM","5.3","64.0","14.4",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Tuesday, January 20, 2026 11:13 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 20, 2026 8:56 AM","9.7","103.2","23.22",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 20, 2026 5:23 PM","10.0","107.2","24.12",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 20, 2026 1:29 PM","2.9","46.4","10.44",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Tuesday, January 20, 2026 8:11 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, January 23, 2026 6:03 PM","11.5","125.6","28.26",redacted,redacted
+"redacted","COMPLETED","Friday, January 23, 2026 8:25 PM","9.0","95.2","21.42",redacted,redacted
+"redacted","COMPLETED","Friday, January 23, 2026 4:55 PM","6.9","75.2","16.92",redacted,redacted
+"redacted","COMPLETED","Friday, January 23, 2026 9:25 PM","3.6","51.2","11.52",redacted,redacted
+"redacted","COMPLETED","Friday, January 23, 2026 8:59 PM","7.5","79.2","17.82",redacted,redacted
+"redacted","COMPLETED","Friday, January 23, 2026 10:26 PM","19.1","216.8","48.78",redacted,redacted
+"redacted","DRIVER CANCELLED","Friday, January 23, 2026 9:44 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Saturday, January 24, 2026 12:00 AM","9.9","105.6","23.76",redacted,redacted
+"redacted","COMPLETED","Friday, January 23, 2026 9:51 PM","7.5","80.0","18.0",redacted,redacted
+"redacted","COMPLETED","Friday, January 23, 2026 6:54 PM","10.9","117.6","26.46",redacted,redacted
+"redacted","COMPLETED","Friday, January 23, 2026 11:21 PM","8.2","134.8","19.08",redacted,redacted
+"redacted","COMPLETED","Friday, January 23, 2026 7:45 PM","7.7","81.6","18.36",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 27, 2026 6:48 PM","25.4","292.0","65.7",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 27, 2026 5:41 PM","7.2","77.6","17.46",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 27, 2026 6:19 PM","2.6","44.0","9.9",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 27, 2026 9:21 PM","20.7","235.2","52.92",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 27, 2026 8:06 PM","20.9","238.4","53.64",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 27, 2026 4:27 PM","4.2","56.0","12.6",redacted,redacted
+"redacted","COMPLETED","Tuesday, January 27, 2026 4:49 PM","12.8","140.8","31.68",redacted,redacted
+"redacted","COMPLETED","Monday, February 2, 2026 5:16 PM","8.4","88.0","19.8",redacted,redacted
+"redacted","DRIVER CANCELLED","Monday, February 2, 2026 4:29 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Monday, February 2, 2026 6:35 PM","14.5","161.6","36.36",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, February 3, 2026 12:01 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Monday, February 2, 2026 8:03 PM","5.9","68.0","15.3",redacted,redacted
+"redacted","COMPLETED","Monday, February 2, 2026 11:14 PM","8.3","86.4","19.44",redacted,redacted
+"redacted","COMPLETED","Monday, February 2, 2026 5:52 PM","3.1","48.0","10.8",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Monday, February 2, 2026 10:26 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Monday, February 2, 2026 3:52 PM","14.3","158.4","35.64",redacted,redacted
+"redacted","DRIVER CANCELLED","Monday, February 2, 2026 10:29 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Monday, February 2, 2026 9:01 PM","11.1","120.0","27.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Monday, February 2, 2026 10:15 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Monday, February 2, 2026 10:50 PM","6.4","71.2","16.02",redacted,redacted
+"redacted","COMPLETED","Monday, February 2, 2026 6:16 PM","5.0","61.6","13.86",redacted,redacted
+"redacted","DRIVER CANCELLED","Monday, February 2, 2026 7:53 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Monday, February 2, 2026 4:43 PM","8.2","85.6","19.26",redacted,redacted
+"redacted","COMPLETED","Monday, February 2, 2026 9:41 PM","9.4","100.0","22.5",redacted,redacted
+"redacted","COMPLETED","Monday, February 2, 2026 10:33 PM","4.8","60.8","13.68",redacted,redacted
+"redacted","COMPLETED","Monday, February 2, 2026 8:24 PM","9.9","105.6","23.76",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Tuesday, February 3, 2026 11:38 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Tuesday, February 3, 2026 11:45 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Tuesday, February 3, 2026 11:51 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, February 3, 2026 5:33 PM","8.9","94.4","21.24",redacted,redacted
+"redacted","COMPLETED","Tuesday, February 3, 2026 10:01 PM","18.3","207.2","46.62",redacted,redacted
+"redacted","COMPLETED","Tuesday, February 3, 2026 9:27 PM","8.8","93.6","21.06",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, February 3, 2026 5:04 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, February 3, 2026 6:16 PM","13.1","144.0","32.4",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, February 3, 2026 10:01 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, February 3, 2026 10:56 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Tuesday, February 3, 2026 11:05 PM","11.6","133.2","28.62",redacted,redacted
+"redacted","COMPLETED","Tuesday, February 3, 2026 7:35 PM","11.8","128.8","28.98",redacted,redacted
+"redacted","COMPLETED","Tuesday, February 3, 2026 8:24 PM","9.7","104.0","23.4",redacted,redacted
+"redacted","COMPLETED","Tuesday, February 3, 2026 9:01 PM","6.6","72.8","16.38",redacted,redacted
+"redacted","DRIVER CANCELLED","Tuesday, February 3, 2026 6:15 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, February 4, 2026 9:45 PM","13.9","153.6","34.56",redacted,redacted
+"redacted","COMPLETED","Wednesday, February 4, 2026 7:51 PM","2.5","44.0","9.9",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Wednesday, February 4, 2026 8:04 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, February 4, 2026 10:16 PM","14.9","166.4","37.44",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Wednesday, February 4, 2026 5:01 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, February 4, 2026 6:55 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, February 4, 2026 7:02 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, February 4, 2026 4:38 PM","4.2","56.0","12.6",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Wednesday, February 4, 2026 5:45 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, February 4, 2026 8:47 PM","8.1","84.0","18.9",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, February 4, 2026 5:14 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, February 4, 2026 7:08 PM","8.8","92.8","20.88",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, February 4, 2026 6:21 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, February 4, 2026 9:13 PM","8.7","91.2","20.52",redacted,redacted
+"redacted","COMPLETED","Wednesday, February 4, 2026 11:09 PM","5.4","64.0","14.4",redacted,redacted
+"redacted","COMPLETED","Wednesday, February 4, 2026 6:01 PM","2.8","45.6","10.26",redacted,redacted
+"redacted","COMPLETED","Wednesday, February 4, 2026 8:18 PM","6.7","73.6","16.56",redacted,redacted
+"redacted","COMPLETED","Wednesday, February 4, 2026 5:29 PM","2.2","41.6","9.36",redacted,redacted
+"redacted","COMPLETED","Thursday, February 5, 2026 11:12 PM","7.9","82.4","18.54",redacted,redacted
+"redacted","COMPLETED","Thursday, February 5, 2026 9:36 PM","11.2","122.4","27.54",redacted,redacted
+"redacted","COMPLETED","Thursday, February 5, 2026 11:36 PM","12.1","132.0","29.7",redacted,redacted
+"redacted","COMPLETED","Thursday, February 5, 2026 8:38 PM","7.1","76.8","17.28",redacted,redacted
+"redacted","DRIVER CANCELLED","Thursday, February 5, 2026 11:07 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, February 5, 2026 7:30 PM","12.2","133.6","30.06",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Thursday, February 5, 2026 11:11 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Thursday, February 5, 2026 10:09 PM","5.8","103.0","15.3",redacted,redacted
+"redacted","COMPLETED","Thursday, February 5, 2026 9:03 PM","7.0","96.0","17.1",redacted,redacted
+"redacted","COMPLETED","Thursday, February 5, 2026 10:44 PM","5.2","63.2","14.22",redacted,redacted
+"redacted","COMPLETED","Friday, February 6, 2026 7:45 PM","7.9","82.4","18.54",redacted,redacted
+"redacted","COMPLETED","Friday, February 6, 2026 8:14 PM","7.0","76.0","17.1",redacted,redacted
+"redacted","DRIVER CANCELLED","Friday, February 6, 2026 7:34 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, February 6, 2026 9:56 PM","12.2","133.6","30.06",redacted,redacted
+"redacted","DRIVER CANCELLED","Friday, February 6, 2026 8:11 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, February 6, 2026 6:50 PM","10.3","110.4","24.84",redacted,redacted
+"redacted","COMPLETED","Friday, February 6, 2026 9:28 PM","8.5","89.6","20.16",redacted,redacted
+"redacted","COMPLETED","Friday, February 6, 2026 8:38 PM","15.5","172.8","38.88",redacted,redacted
+"redacted","COMPLETED","Friday, February 6, 2026 6:10 PM","9.2","116.8","21.78",redacted,redacted
+"redacted","COMPLETED","Tuesday, February 10, 2026 5:31 PM","18.8","212.8","53.2",redacted,redacted
+"redacted","COMPLETED","Wednesday, February 11, 2026 9:58 PM","6.6","72.8","18.2",redacted,redacted
+"redacted","COMPLETED","Wednesday, February 11, 2026 5:23 PM","5.8","83.0","17.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, February 11, 2026 8:32 PM","14.7","163.2","40.8",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, February 11, 2026 9:57 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, February 11, 2026 6:24 PM","16.0","179.2","44.8",redacted,redacted
+"redacted","COMPLETED","Wednesday, February 11, 2026 7:34 PM","16.2","180.8","45.2",redacted,redacted
+"redacted","COMPLETED","Wednesday, February 11, 2026 9:13 PM","9.2","98.4","24.6",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, February 11, 2026 9:57 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, February 11, 2026 5:14 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, February 11, 2026 11:16 PM","13.6","149.6","37.4",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, February 11, 2026 10:22 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, February 11, 2026 10:23 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, February 11, 2026 11:55 PM","9.1","96.8","24.2",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, February 11, 2026 6:03 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Wednesday, February 11, 2026 4:41 PM","7.6","80.0","20.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Wednesday, February 11, 2026 4:35 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, February 13, 2026 6:08 AM","17.2","194.4","48.6",redacted,redacted
+"redacted","COMPLETED","Friday, February 13, 2026 6:57 AM","11.7","127.2","31.8",redacted,redacted
+"redacted","COMPLETED","Friday, February 13, 2026 7:41 AM","11.1","120.8","30.2",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Friday, February 13, 2026 10:29 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, February 13, 2026 3:11 PM","15.4","172.0","43.0",redacted,redacted
+"redacted","COMPLETED","Friday, February 13, 2026 2:31 PM","6.7","73.6","18.4",redacted,redacted
+"redacted","DRIVER CANCELLED","Friday, February 13, 2026 4:55 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, February 13, 2026 1:57 PM","9.9","106.4","26.6",redacted,redacted
+"redacted","COMPLETED","Friday, February 13, 2026 4:07 PM","7.9","82.4","20.6",redacted,redacted
+"redacted","COMPLETED","Friday, February 13, 2026 11:35 AM","7.8","81.6","20.4",redacted,redacted
+"redacted","COMPLETED","Friday, February 13, 2026 12:07 PM","14.4","180.0","40.0",redacted,redacted
+"redacted","COMPLETED","Friday, February 13, 2026 10:56 AM","13.1","144.8","36.2",redacted,redacted
+"redacted","COMPLETED","Friday, February 13, 2026 9:22 AM","4.5","57.6","14.4",redacted,redacted
+"redacted","CUSTOMER CANCELLED","Friday, February 13, 2026 10:33 AM","0.0","0.0","0.0",redacted,redacted
+"redacted","DRIVER CANCELLED","Friday, February 13, 2026 5:08 PM","0.0","0.0","0.0",redacted,redacted
+"redacted","COMPLETED","Friday, February 13, 2026 6:39 PM","11.2","121.6","30.4",redacted,redacted
+"redacted","COMPLETED","Friday, February 13, 2026 12:45 PM","20.7","236.0","59.0",redacted,redacted
+"redacted","COMPLETED","Friday, February 13, 2026 8:42 AM","7.6","100.0","20.0",redacted,redacted
+"redacted","COMPLETED","Friday, February 13, 2026 4:37 PM","2.3","42.4","10.6",redacted,redacted
+"redacted","COMPLETED","Friday, February 13, 2026 5:30 PM","16.3","202.4","45.6",redacted,redacted
+"redacted","COMPLETED","Friday, February 13, 2026 3:02 PM","2.2","41.6","10.4",redacted,redacted
+"redacted","COMPLETED","Friday, February 13, 2026 10:37 AM","5.7","66.4","16.6",redacted,redacted
+"redacted","COMPLETED","Friday, February 13, 2026 9:53 AM","10.7","116.0","29.0",redacted,redacted
